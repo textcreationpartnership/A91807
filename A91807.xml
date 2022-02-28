@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The iudgement of Doctor Reignolds concerning episcopacy, whether it be Gods ordinance. Expressed in a letter to Sir Francis Knovvls, concerning Doctor Bancrofts sermon at Pauls-Crosse, the ninth of February, 1588. In the Parliament time.</title>
+            <author>Rainolds, John, 1549-1607.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91807</idno>
+            <idno type="STC">Wing R142A</idno>
+            <idno type="STC">Thomason E156_3</idno>
+            <idno type="STC">ESTC R23328</idno>
+            <idno type="EEBO-CITATION">99871975</idno>
+            <idno type="PROQUEST">99871975</idno>
+            <idno type="VID">156866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The iudgement of Doctor Reignolds concerning episcopacy, whether it be Gods ordinance. Expressed in a letter to Sir Francis Knovvls, concerning Doctor Bancrofts sermon at Pauls-Crosse, the ninth of February, 1588. In the Parliament time.</title>
+                  <author>Rainolds, John, 1549-1607.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Paine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bancroft, Richard, 1544-1610. --  Sermon preached at Pauls Crosse.</term>
+               <term>Knollys, Francis, --  Sir, d. 1643 --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156866:1" rendition="simple:additions"/>
+            <p>THE IVDGEMENT OF DOCTOR <hi>REIGNOLDS</hi> Concerning EPISCOPACY, Whether it be GODS Ordinance.</p>
+            <p>Expreſſed in a Letter to Sir FRANCIS KNOVVLS, Concerning Doctor <hi>Bancrofts</hi> Sermon at <hi>Pauls</hi>-Croſſe, the ninth of <hi>February,</hi> 1588. <hi>In the Parliament time.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Paine,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156866:2"/>
+            <pb facs="tcp:156866:2"/>
+            <head>DOCTOR <hi>REIGNOLDS</hi> HIS Letter to Sir FRANCIS KNOVVLS, concerning <hi>Doctor Bancrofts</hi> Sermon at <hi>Pauls-Croſſe.</hi> 9. Febru: 1588. In the PARLIAMENT <hi>time.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lbeit (Right Honorable) I take grea<g ref="char:EOLhyphen"/>ter comfort in labouring to diſcover and over-throw the <hi>Errors</hi> of <hi>Ieſuites</hi> and <hi>Papiſts,</hi> (enemies of Religion) than of the Miniſters of <hi>Chriſt;</hi> yet ſee<g ref="char:EOLhyphen"/>ing it hath pleaſed your Honour to re<g ref="char:EOLhyphen"/>quire me, to ſhew mine opinion of ſom things, which certain of theſe men maintain and ſtand in, I thought it my duty, by the example<note n="a" place="margin">Deut. 33. 9.</note> of <hi>Levie, who ſaid of his Father, and Mother, I regard them not, nor acknow<g ref="char:EOLhyphen"/>ledged he his Brethren,</hi> to declare the truth, without reſpect of perſons.</p>
+            <p>Of the two points therefore in <hi>Doctor Bancrofts</hi> Ser<g ref="char:EOLhyphen"/>mon, which your Honor, mentioneth, one is, concern<g ref="char:EOLhyphen"/>ing that he ſeemeth to avouch, <hi>The ſuperioritie which Bi<g ref="char:EOLhyphen"/>ſhops have among us over the Clergie, to be Gods owne Ordi<g ref="char:EOLhyphen"/>nance;</hi> though not by expreſſe words, yet by neceſſary conſequence; In that he affirmeth their opinion, who oppugne that ſuperioritie, to be <hi>Hereſie.</hi> Wherein, I muſt confeſſe, he hath committed an overſight, in my judge<g ref="char:EOLhyphen"/>ment, and himſelfe, (I thinke) if he be advertiſed there<g ref="char:EOLhyphen"/>of, will acknowledge it. For having<note n="b" place="margin">pag. 18.</note> firſt ſaid that <hi>Ae<g ref="char:EOLhyphen"/>rius</hi> affirmeth, <hi>that there was no difference by the word of God betwixt a Prieſt and a Biſhop,</hi> and afterward, that <hi>Mar<g ref="char:EOLhyphen"/>tin</hi> and his companions, doe maintaine this opinion of <hi>Aerius;</hi> he addeth that<note n="c" place="margin">pag. 19.</note> 
+               <hi>Aerius perſiſting therein, was condemned for an heretike by the generall conſent of the whole Church,</hi> and likewiſe<note n="d" place="margin">pag. 69.</note> that <hi>Martins, and all his companions opinion hath herein been condemned for hereſie.</hi>
+            </p>
+            <p>Touching <hi>Martin,</hi> if any man behave himſelfe other<g ref="char:EOLhyphen"/>wayes than in diſcretion and charitie he ought, let the
+<pb n="4" facs="tcp:156866:3"/>
+blame be laid where the fault is, I defend him not; but if by the way, he utter a truth<g ref="char:punc">▪</g> mingled with whatſoever elſe, it is not reaſon that that which is of God, ſhould be condemned for that which is of man; no more than the doctrine of the reſurrection ſhould be reproved, becauſe <note n="e" place="margin">
+                  <hi>Act.</hi> 23. 8</note> it was maintained and held by the Phariſes. Wherefore removing the odious name of <hi>Martin,</hi> from that which in ſinceritie and love is to be dealt with, it appeareth, by the aforeſaid words of D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Bancroft,</hi> that he avoucheth the Superioritie which Biſhops have over the Clergie to be of Gods owne ordinance; For he improveth the im<g ref="char:EOLhyphen"/>pugners of it, as holding with <hi>Aerius,</hi> that there is no difference by the word of God betwixt a <hi>Pri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> and a <hi>Bi<g ref="char:EOLhyphen"/>ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p</hi> which he could not doe with reaſon, unleſſe he him<g ref="char:EOLhyphen"/>ſelfe approved the Biſhops ſuperioritie, as eſtabliſhed by Gods word: and he addeth, that their opi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion who gain<g ref="char:EOLhyphen"/>ſay it, is <hi>Hereſie<g ref="char:punc">▪</g>
+               </hi> whereof it inſueth, he thinks it contrary to Gods word; ſith <hi>Hereſie</hi> is an error repugnant to the truth of the word of God, as (according to <note n="f" place="margin">1 <hi>Tim 6. 3. Titus 3. 10. 2 Pet. 1. 19. &amp;</hi> 21.</note> the Scrip<g ref="char:EOLhyphen"/>tures) our owne Church <note n="g" place="margin">The defence of the Apology<g ref="char:punc">▪</g> part 1<g ref="char:punc">▪</g> &amp; 7. diviſion 2. Anſwer to the Rhem. <hi>T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tus</hi> 3. 10.</note> doth teach us.</p>
+            <p>Now the Arguments which he bringeth to prove it an hereſie, are partly overweake, partly untrue: over<g ref="char:EOLhyphen"/>weake, that <note n="h" place="margin">p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. 18.</note> he beginneth with, out of <hi>Epiphanius;</hi> un<g ref="char:EOLhyphen"/>true, that he <note n="i" place="margin">p. 19. &amp; 69.</note> adjoyneth of the generall conſent of the Church. For though <hi>Epiphanius</hi> doe ſay, that <hi>Aerius his aſſertion is full of folly,</hi> yet he diſproveth not the reaſon which<g ref="char:punc">▪</g> 
+               <hi>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rius</hi> ſtood on, out of the Scriptures; nay he dealeth ſo in ſeeking to diſprove it, that <hi>Bellarmine</hi> the Jeſuite, <note n="k" place="margin">Tom<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cont. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lib. 1<g ref="char:punc">▪</g> c. 15.</note> though deſirous to make the beſt of <hi>Epiphanius,</hi> whoſe opinion herein he maintaineth againſt the Prote<g ref="char:EOLhyphen"/>ſtants, yet is forced to confeſſe, that <hi>Epiphanius</hi> his anſwer is not all of the wiſeſt, not any way can fit the Te<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+            <p>As for the general<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſent of the whole Church, which D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Bancroft</hi> ſaith, condemned that opinion of <hi>Ae<g ref="char:EOLhyphen"/>rius</hi> for an <hi>hereſie,</hi> and himſelfe for an <hi>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retik<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> becauſe he perſiſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in it, that is a large ſpeech: but what proofe hath h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Church did ſo. It appeareth he ſaith in <note n="l" place="margin">Hereſie 15<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Epiphanius.</hi> It doth not, and the contrary appeareth by <note n="m" place="margin">I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. 8<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>.</note> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> &amp; ſundry others<g ref="char:punc">▪</g> who lived, ſome in the ſame time, ſome after <hi>Epiphanius<g ref="char:punc">▪</g>
+               </hi> even S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Auſtin</hi> himſelfe,
+<pb n="5" facs="tcp:156866:3"/>
+though Dr <hi>Bancroft</hi> cite him, as bearing witneſſe thereof likewiſe; I grant S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Austin</hi> 
+               <note n="n" place="margin">Cap. 53.</note> in his book of hereſies, aſcri<g ref="char:EOLhyphen"/>beth this to <hi>Aerius,</hi> for one, that he ſaid, <hi>Presbyterum ab e<g ref="char:EOLhyphen"/>piſcopo nulla differentia deberi diſcerni:</hi> but it is one thing to ſay, <hi>there ought to be no difference betwixt them,</hi> (which <hi>Ae<g ref="char:EOLhyphen"/>rius</hi> ſaying condemned the Churches order, yea made a ſchiſme therein, and ſo is cenſured by S<hi rend="sup">t</hi> 
+               <hi>Auſtin,</hi> counting it an hereſie, as <note n="o" place="margin">In Argu. pre<g ref="char:EOLunhyphen"/>fix. l. 3. Tom. 2.</note> in <hi>Epiphanius</hi> he took it recorded, him<g ref="char:EOLhyphen"/>ſelfe, as <note n="p" place="margin">D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haereſ. ad quod vult De<g ref="char:EOLhyphen"/>um in prefa<g ref="char:EOLhyphen"/>tione.</note> he witneſſeth not knowing how farre the name of Hereſie ſhould be ſtretched) another thing to ſay, <hi>that by the word of God there is no difference betwixt them,</hi> but by the order and cuſtome of the Church, which S<hi rend="sup">t</hi> 
+               <hi>Austin</hi> 
+               <note n="q" place="margin">Epiſt. 19.</note> ſayth in effect himſelfe, ſo far was he from witneſſing this to be hereſie by the generall conſent of the whole Church. Which untruth, how wrongfully it is fathered on him, and on <hi>Epiphanius</hi> (who yet are all the witneſſes that Dr <hi>Bancroft</hi> hath produced for the proofe hereof, or can for ought that I know) it may appeare by this, that our learned Country man (of godly memory) Biſhop <note n="r" place="margin">Def. of the Apol. part. 2. ca. 9<g ref="char:punc">▪</g> diviſ. 1. page 198.</note> 
+               <hi>Iewell,</hi> when <hi>Harding</hi> to convince the ſame opinion of hereſie, alleaged the ſame witneſſes, he citing to the con<g ref="char:EOLhyphen"/>trary <hi>Chryſoſtome, Ierom, Auſtin,</hi> and <hi>Ambroſe,</hi> knit up his anſwer with theſe words: <hi>All theſe, and other moe holy Fa<g ref="char:EOLhyphen"/>thers, together with the Apoſtle S<hi rend="sup">t</hi>
+               </hi> Paul, <hi>for thus ſaying, by Hardings advice, muſt be held for heretikes.</hi> And <hi>Michell Medina,</hi> 
+               <note n="ſ" place="margin">De ſacrif. hom orig &amp; confir<g ref="char:punc">▪</g> lib. 1. cap. 5.</note> a man of great account in the Councell of <hi>Trent,</hi> more ingenious herein than many other Papiſts, affir<g ref="char:EOLhyphen"/>meth, not onely the former ancient writers, alledged by Biſhop <hi>Iewel</hi> but alſo an other <hi>Jerom, Theodoret, Primaſius, Sedulius,</hi> and <hi>Theophilact</hi> were of the ſame mind touching this matter with <hi>Aerius.</hi> With whom agree likewiſe<note n="t" place="margin">In 1 <hi>Tim.</hi> 3.</note> 
+               <hi>Oecumenius,</hi> and <note n="u" place="margin">In Epiſt. ad Titum.</note> 
+               <hi>Anſelus</hi> Archb: of <hi>Canterbury,</hi> and <note n="x" place="margin">Collect. Ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. li. 7. cap. 87. &amp; 1 27.</note> another <hi>Anſelmus</hi> and <note n="y" place="margin">Policar. lib. 2. Tit. 19. &amp; 39.</note> 
+               <hi>Gregory</hi> and <note n="z" place="margin">Cap. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gimus, diſt<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. ca<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp. diſt 95.</note> 
+               <hi>Gra<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and after them how many? It being once inrolled in the Canon law for ſound, and catholique doctrine, and thereupon pub<g ref="char:EOLhyphen"/>likely taught by <note n="a" place="margin">Author g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in ca. diſt. citat. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous caol Ave, l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dua<g ref="char:EOLhyphen"/>ren de ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra ec<g ref="char:EOLhyphen"/>cle<g ref="char:punc">▪</g> miniſt. lib. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. 7.</note> learned men; All which doe beare wit<g ref="char:EOLhyphen"/>neſſe againſt D<hi rend="sup">r</hi> 
+               <hi>Bancroft,</hi> of the poynt in queſtion, that it was not condemned for an <hi>hereſie</hi> by the generall conſent of the whole Church<g ref="char:punc">▪</g> For if he ſhould reply<g ref="char:punc">▪</g> that theſe later witneſſes did live a thouſand yeares after Chriſt,
+<pb n="6" facs="tcp:156866:4"/>
+and therefore touch not him who <note n="b" place="margin">pag. 19.</note> ſaid, it was condem<g ref="char:EOLhyphen"/>ned ſo in the time of S<hi rend="sup">t</hi> 
+               <hi>Auſtin,</hi> and of <note n="c" place="margin">pag 69.</note> 
+               <hi>Epiphanius,</hi> the moſt flouriſhing time of the Church that ever happened ſince the Apoſtles dayes, either in reſpect of learning, or of zeale; firſt they whom I named, though living in a latter time, yet are witneſſes of the former.</p>
+            <p>
+               <hi>Oecumenius</hi> the Greek Scholiaſt treading in the ſteps of the old greek Fathers, and the two <hi>Anſelmes,</hi> with <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> and <hi>Gratian,</hi> expreſſing S<hi rend="sup">t</hi>
+               <g ref="char:punc">▪</g> 
+               <hi>Ieromes</hi> ſentence word by word. Beſides that, perhaps it is not very likely that <hi>An<g ref="char:EOLhyphen"/>ſelmus</hi> of <hi>Canterbury</hi> ſhould have been canonized by the <hi>Pope</hi> of <hi>Rome,</hi> and worſhipped for a Saint; that the other <hi>Anſelmus</hi> and <hi>Gregory</hi> ſhould have ſuch place in the <hi>Popes</hi> Library, and be eſteemed of as they are; that <hi>Gratians</hi> works ſhould be allowed ſo long time by ſo many <hi>Popes</hi> for the golden foundation of the Canon law, if they had taught that for catholike, and ſound, which by the gene<g ref="char:EOLhyphen"/>rall conſent of the whole Church, in the moſt flouriſhing time that ever happened ſince the Apoſtles dayes, was condemned for <hi>hereſie:</hi> chiefly in a matter of ſuch weight and moment, to the Popes ſupremacy; which as they doe claime over all <hi>Biſhops</hi> by the ordinance of God, ſo muſt they allow to Biſhops over Prieſts by the ſame ordinance as they ſaw at length: and there<g ref="char:punc">▪</g> ore have not onely de<g ref="char:EOLhyphen"/>creed it now in the <note n="e" place="margin">Seſſ. 23. c. 4. Can. 6. &amp; 7.</note> Councell of <hi>Trent,</hi> but alſo in <note n="f" place="margin">Annot marg. ad cap<g ref="char:punc">▪</g> legimus diſt<g ref="char:punc">▪</g> 43.</note> the new edition of their Canon law have ſet down this note, that on <hi>Hughes</hi> Gloſſe allowed by the Archdeacon (ſay<g ref="char:EOLhyphen"/>ing, <hi>that Biſhops have differed from Prieſts alwayes as they doe now in Government, and Prelatſhip and Offices, and Sacra<g ref="char:EOLhyphen"/>ments but n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in the name and title of Biſhop, which was com<g ref="char:EOLhyphen"/>mon to them both) muſt be held hereafter for S<hi rend="sup">t</hi>
+               </hi> Jeroms <hi>mean<g ref="char:EOLhyphen"/>ing:</hi> at leaſt for the meaning of the Canon taken out of S<hi rend="sup">t</hi> 
+               <hi>Jerom</hi> though his words be flat and plaine againſt this gloſſe, as <hi>Bellarmine</hi> 
+               <note n="g" place="margin">Tom. 1. con<g ref="char:EOLhyphen"/>tro. 5. lib. 2. cap.</note> himſelfe confeſſeth. Whereto may be added, that they alſo who have laboured about the re<g ref="char:EOLhyphen"/>forming of the Church theſe 500 years, have taught that all Paſtors, be they intituled Biſhops, or Prieſts, have e<g ref="char:EOLhyphen"/>quall authoritie and power by Gods word. Firſt the <note n="h" place="margin">
+                  <hi>Aeneas Sil<g ref="char:EOLhyphen"/>vius biſto. Bo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em.</hi> cap. 35 &amp; <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh<g ref="char:punc">▪</g>
+                  </hi> Hierarch Eccleſ. l. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. 10</note> 
+               <hi>Wal<g ref="char:EOLhyphen"/>denſes,</hi> next <note n="i" place="margin">Defenſ. pacis part 2. cap. 15.</note> 
+               <hi>Marſilius Patavinus<g ref="char:punc">▪</g>
+               </hi> then <note n="k" place="margin">
+                  <hi>Tho. Walden</hi> Doc. fidei Tom 1. lib. 2. cap. 60. &amp; Tom<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. 17.</note> 
+               <hi>Wickliffe<g ref="char:punc">▪</g>
+               </hi> and his ſchollers; afterward <note n="l" place="margin">
+                  <hi>Aeneas Silvi<g ref="char:EOLhyphen"/>us</hi> loco citato.</note> 
+               <hi>Huſſe,</hi> and the <hi>Huſſites<g ref="char:punc">▪</g>
+               </hi> laſt of all
+<pb n="7" facs="tcp:156866:4"/>
+               <note n="m" place="margin">Adverſus fal<g ref="char:EOLhyphen"/>ſo nominat or<g ref="char:EOLhyphen"/>din<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; ad<g ref="char:EOLhyphen"/>ver. Papa. Rom.</note> 
+               <hi>Luther,</hi> 
+               <note n="n" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Epiſt ad <hi>Philip.</hi> 1. &amp; <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> 1.</note> 
+               <hi>C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lvin,</hi> 
+               <note n="o" place="margin">Apol. Confeſ. Wittenb c. 21.</note> 
+               <hi>Brentius,</hi> 
+               <note n="p" place="margin">Decad. 5. ſer. 3</note> 
+               <hi>Bullinger,</hi> 
+               <note n="q" place="margin">Loc. Com. Tit. de miniſt. verbi.</note> 
+               <hi>Muſculus,</hi> and other, who might be reckoned particularly in great number, ſith as here with us both <note n="r" place="margin">
+                  <hi>Iewel</hi> loco ci<g ref="char:EOLhyphen"/>tat et <hi>Pilking<g ref="char:EOLhyphen"/>ton</hi> in the trea<g ref="char:EOLhyphen"/>tiſe of burning <hi>Pauls</hi> Church.</note> 
+               <hi>Biſhps,</hi> and the <hi>Queenes</hi> 
+               <note n="ſ" place="margin">D. <hi>Humphrey</hi> in Camp. &amp; in Duraeum Ieſui<g ref="char:EOLhyphen"/>tas part 2. rat. 3 &amp; D. <hi>White<g ref="char:punc">▪</g>
+                  </hi> ad rat. Campiani, 6 &amp; Confuta, Duraei Ieſuitae lib. 6.</note> Profeſſors of Divi<g ref="char:EOLhyphen"/>nitie in our <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> and <note n="t" place="margin">M. <hi>Bradford, Lambert,</hi> and o<g ref="char:EOLhyphen"/>thers. M. <hi>Fox,</hi> Acts, &amp;c. D. <hi>Fulke</hi> againſt <hi>Briſtow,</hi> mo<g ref="char:EOLhyphen"/>tive 40 and an<g ref="char:EOLhyphen"/>ſwer to the Re<g ref="char:EOLhyphen"/>miſts, <hi>Tit</hi> 1. 5.</note> other learned men doe conſent <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erein: ſo in forreine Nations all<g ref="char:punc">▪</g> whom I have read treating of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> matter, and many moe, (no d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bt) whom I have not read.</p>
+            <p>The ſifting and examining of the <hi>Trent Councell</hi> hath been undertaken by onely two, which I have ſeene, the one a divine, the other a Lawyer, <note n="u" place="margin">part 2. lib. 4.</note> 
+               <hi>Kemniſius,</hi> and <hi>Gentilletus;</hi> they both con<g ref="char:EOLhyphen"/>demne the contrary doctrine thereunto, as a <hi>Trent</hi> error; the one by ſcriptures, and Fathers; the other by the Canon law. But what doe I further ſpeak of ſeverall perſons? It is the common judgement of the Reformed Churches of <hi>Helvetia, Savoy, France, Scotland, Germany, Hungary, Polony,</hi> the <hi>Low Countries, and our owne,</hi> witneſſe the <note n="y" place="margin">Harmony ſec. 11. in <hi>Helvet,</hi> poſt <hi>Gallia Bel<g ref="char:EOLhyphen"/>gia, Anglia,</hi> &amp;c</note> 
+               <hi>Harmony of Confeſſions.</hi>
+            </p>
+            <p>Wherefore ſith D<hi rend="sup">r</hi> 
+               <hi>Bancroft</hi> (I aſſure my ſelfe) will not ſay that all theſe have approved that as ſound &amp; chriſtian doctrine, w<hi rend="sup">ch</hi> by the generall conſent of the whol Church, in a moſt flouriſh<g ref="char:EOLhyphen"/>ing time, was co<g ref="char:cmbAbbrStroke">̄</g>demned for <hi>hereſie:</hi> I hope he will acknowledg, that he was overſeene, in that he avouched the Superiority w<hi rend="sup">ch</hi> Biſhops have among us over the Clergy to be of Gods own or<g ref="char:EOLhyphen"/>dina<g ref="char:cmbAbbrStroke">̄</g>ce. And thus far of the former point of D<hi rend="sup">r</hi> 
+               <hi>Bancrofts</hi> Sermo<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>The latter is, concerning that he affirmeth, that S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> 
+               <note n="z" place="margin">pa. 14. &amp; 69.</note> ſaith, and M<hi rend="sup">r</hi> 
+               <hi>Calvin</hi> ſeemeth on his report, to confeſſe that Biſhops have had the ſaid ſuperiority ever ſince the time of S<hi rend="sup">t</hi> 
+               <hi>Mark</hi> the Evangeliſt. Of the which poynt I think as of the former; ſith neither <hi>Ierom</hi> ſaith it, neither doth <hi>Calvin</hi> ſeeme to confeſſe it on his report. For <hi>Biſhops</hi> among us, beſides ordeining, and lay<g ref="char:EOLhyphen"/>ing on of hands, may doe ſundry other things, which inferior Miniſters, or Prieſts (as D<hi rend="sup">r</hi> 
+               <hi>Bancroft<g ref="char:punc">▪</g>
+               </hi> termeth them) may not; But <note n="a" place="margin">Epiſt. ad E<g ref="char:EOLhyphen"/>vagrium.</note> 
+               <hi>Ierom,</hi> after mention of the ſuperioritie allotted to Biſhops ſince S<hi rend="sup">t</hi> 
+               <hi>Marks</hi> time, <hi>What doth a Biſhop</hi> (ſaith he) <hi>except ordina<g ref="char:EOLhyphen"/>tion, which a Prieſt doth not?</hi> Meaning and inforcing by this kind of ſpeech, as a thing moſt evident, and ſuch as no man could de<g ref="char:EOLhyphen"/>ny, that <hi>Biſhops</hi> had that only power above Prieſts then, which <note n="b" place="margin">Hom. 11. in 1 <hi>Tim.</hi>
+               </note> 
+               <hi>Chryſoſtome</hi> alſo witneſſeth.</p>
+            <p>Though neither had they it alone in all places, as it is appa<g ref="char:EOLhyphen"/>rant by a <note n="c" place="margin">Concil<g ref="char:punc">▪</g> 4. Can. 3.</note> Councell of <hi>Carthage,</hi> ſhewing their Churches order; that the Prieſts layd their hands together with the Biſhop on thoſe who were ordeined. Yet <hi>Ierom</hi> having proved by teſti<g ref="char:EOLhyphen"/>mony
+<pb n="8" facs="tcp:156866:5"/>
+of Scripture, that in the Apoſtles times, Biſhops &amp; Prieſts were all one, even in the right <note n="d" place="margin">In 1 <hi>Tim.</hi> 4. 4. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> of this too, granteth that after<g ref="char:EOLhyphen"/>wards Biſhops had that peculiar unto themſelves ſome where, but nothing elſe ſave it. S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> therefore ſaith not of that ſu<g ref="char:EOLhyphen"/>perioritie whereof the queſtion is, that Biſhops have had it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ver ſince S<hi rend="sup">t</hi> 
+               <hi>Marks</hi> time.</p>
+            <p>No more doth M<hi rend="sup">r</hi> 
+               <hi>Calvin</hi> ſee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to confeſſe it upon his report. For <hi>Calvin</hi> (in the ſame <note n="e" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Inſtit. li. 4. cap. 4. ſect. 2.</note> place that D<hi rend="sup">r</hi> 
+               <hi>Bancroft</hi> quoteth<g ref="char:punc">▪</g> ſhew<g ref="char:EOLhyphen"/>ing how in old time the Miniſters that had charge to teach, choſe of their company one in every Citie, to whom they did eſpecially give the title of Biſhop; leaſt equalitie ſhould breed diſſention, yet ſaith he) the Biſhop was not above them in ho<g ref="char:EOLhyphen"/>nor and dignity<g ref="char:punc">▪</g> that he had rule over them, but looke what is the Conſuls dutie in the Senate, to propoſe<g ref="char:punc">▪</g> matters, to ask their opinions, to direct others by giving them adviſe, by admoniſh<g ref="char:EOLhyphen"/>ing, by exhorting, to guide the whole action by his authority, and ſee that performed which was agreed upon by their com<g ref="char:EOLhyphen"/>mon conſent, that charge had the Biſhop in the aſſembly of Miniſters. And having declared, that S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> ſheweth this to have been brought in by the conſent of men upon the firſt of <hi>Titus,</hi> he addeth that the ſame S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> other where ſheweth, how ancient an order of the Church it was, even from S<hi rend="sup">t</hi> 
+               <hi>Marks</hi> time to <hi>Hereclas,</hi> and <hi>Dionyſius</hi> at <hi>Alexandria.</hi> In which words of <hi>Calvin,</hi> ſeeing that the order of the Church he mentioneth, hath evident relation to that before deſcribed, and that in the deſcribing of it, he had ſaid, the Biſhop was not ſo above the reſt in honor, that he had rule over them: It followeth that M<hi rend="sup">r</hi> 
+               <hi>Calvin</hi> doth not ſo much as ſeeme to confeſſe of <hi>Ieroms</hi> report, that ever ſince S<hi rend="sup">t</hi> 
+               <hi>Marks</hi> time Biſhops have had a ruling ſupe<g ref="char:EOLhyphen"/>rioritie over the Clergie. Wherefore to uſe no more proofes in a thing manifeſt, which elſe might eaſily be proved more at large out of S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> and M<hi rend="sup">r</hi> 
+               <hi>Calvin</hi> both: It is certaine, that nei<g ref="char:EOLhyphen"/>ther of them doth affirme, that Biſhops ſo long time have had ſuch ſuperiority as D<hi rend="sup">r</hi> 
+               <hi>Bancroft</hi> ſeemeth to father upon them.</p>
+            <p>Thus have I ſignified mine opinion of the points that your Honor ſpecified in D<hi rend="sup">r</hi> 
+               <hi>Bancrofts</hi> Sermon. Which yet if he or a<g ref="char:EOLhyphen"/>ny doe prove, that I have erred in, or take him otherwiſe than I ought, I ſhall be very willing by Gods grace to correct: remem<g ref="char:EOLhyphen"/>bring the Apoſtles leſſon, that<g ref="char:punc">▪</g> 
+               <hi>The ſpirits of the Prophets are ſub<g ref="char:EOLhyphen"/>ject</hi>
+               <note place="margin">1 <hi>Cor.</hi> 14. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>to the Prophets.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>19. Septemb. 1598.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
